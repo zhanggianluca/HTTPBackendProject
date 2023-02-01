@@ -104,4 +104,9 @@ app.listen(3000, () => {
     console.log("Listening on port 3000 ..."); 
 }); 
 
+//REFLECTION
+//Programs communicate with each other using requests and responses through servers. When a program requests data to a server, the server receives the requests and responds with the data for the program
+//From this project, I learned that there are a lot of transactions and background action that I didn't realize websites and programs do every second
+//This project can be further extended by creating more features and filters that better enhance the user and program experience. 
+
 
